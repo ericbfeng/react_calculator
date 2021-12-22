@@ -1,0 +1,82 @@
+body{
+    background-color:  #c2c2d6;
+  }
+  
+  .outer{
+    background: black;
+    width: 500px;
+    height: 600px;
+    margin-left: auto;
+    margin-right:auto;
+    margin-bottom: 100px; 
+    border-style: solid;
+    border-width: 3px;
+    border-color: white;
+    border-radius: 15px;
+  }
+  .formula{
+    text-align: right;
+    padding-right: 10px;
+    color: orange;
+    position: relative;
+    width: 490px;
+  
+  }
+  .display{
+  
+    color: white;
+    float: right;
+    text-align: right;
+    width: 500px;
+    padding-right:10px;
+    position: relative;
+    font-size: 30px;
+  }
+  .title{
+   margin-bottom: 3px; 
+   font-size: 40px;
+   color: white;
+   font-family: Times New Roman
+  }
+  .subtitle{
+    fontsize: 10px;
+    color:white;
+    font-family: Times New Roman
+  }
+  .buttonC{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 50px;
+    padding-left:7px;
+    height:85%;
+    margin-bottom: auto;
+  }
+  .jumbo{
+    background-color:grey;
+    height: 100px;
+    width: 236px;
+    margin-left: 0px;
+    margin-right: -8px;
+  }
+  .regular{
+    background-color:grey;
+    width: 120px;
+    margin-left: 0px;
+    margin-right: -6px;
+    height: 100px;
+  }
+  .regularP{
+    background-color:white;
+    width: 120px;
+    margin-left: 0px;
+    margin-right: -6px;
+    height: 100px;
+  }
+  .jumboP{
+    background-color:white;
+    height: 100px;
+    width: 236px;
+    margin-left: 0px;
+    margin-right: -8px;
+  }
+  
